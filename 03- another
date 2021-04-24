@@ -1,0 +1,4 @@
+yum install httpd-y
+yum update httpd
+systemctl start service.httpd
+systemctl enable service.httpd
