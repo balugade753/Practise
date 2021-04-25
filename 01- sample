@@ -1,2 +1,4 @@
-echo "Hello world"
+yum install httpd
+systemctl httpd service.start
+systemctl httpd service.enable
 
