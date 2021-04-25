@@ -1,3 +1,4 @@
+#!bin/bash/
 yum install httpd-y
 yum update httpd
 systemctl start service.httpd
